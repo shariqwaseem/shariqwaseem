@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shariqwaseem
-- 👀 I’m interested in Web and Mobile Development
+- 👀 I’m interested in Web and Hybrid Mobile Development
 - 🌱 I’m actively learning ReactJs (NextJs) and React Native
 
 <!---
